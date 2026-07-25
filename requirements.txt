@@ -1,0 +1,8 @@
+# GloryTecks AI Research Crew — dependencies (all free, no paid keys)
+# Loose pins on purpose: newer compatible versions are fine.
+
+crewai>=0.80          # multi-agent orchestration (open source)
+ddgs>=6.0             # keyless DuckDuckGo web search (was 'duckduckgo-search')
+streamlit>=1.36       # the web UI
+python-dotenv>=1.0    # loads GROQ_API_KEY from a .env file (optional)
+litellm<1.93
