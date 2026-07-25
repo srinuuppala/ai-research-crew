@@ -6,3 +6,5 @@ ddgs>=6.0             # keyless DuckDuckGo web search (was 'duckduckgo-search')
 streamlit>=1.36       # the web UI
 python-dotenv>=1.0    # loads GROQ_API_KEY from a .env file (optional)
 litellm<1.93
+fastapi>=0.115.0
+uvicorn>=0.34.0
