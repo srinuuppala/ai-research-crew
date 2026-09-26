@@ -44,6 +44,7 @@ MODELS = {
     "Legacy · Llama 3.1 8B Instant": "groq/llama-3.1-8b-instant",
     "Legacy · Llama 3.3 70B Versatile": "groq/llama-3.3-70b-versatile",
     "Optional . qwen3.8-27b": "groq/qwen/qwen3.8-27b",
+    "option 2 . gpt-oss-safeguard-20b": "openai/gpt-oss-safeguard-20b",
 }
 
 EXAMPLE_TOPICS = [
