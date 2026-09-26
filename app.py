@@ -43,6 +43,7 @@ MODELS = {
     "Quality · GPT-OSS 120B (slower)": "groq/openai/gpt-oss-120b",
     "Legacy · Llama 3.1 8B Instant": "groq/llama-3.1-8b-instant",
     "Legacy · Llama 3.3 70B Versatile": "groq/llama-3.3-70b-versatile",
+    "Optional . qwen3.8-27b": "groq/qwen/qwen3.8-27b",
 }
 
 EXAMPLE_TOPICS = [
